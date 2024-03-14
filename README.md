@@ -31,8 +31,8 @@ Vejo a programação como uma ferramenta para me dar liberdade de mudar minha vi
  📊 GitHub Stats: <br>
  <div>
   <a href="https://github.com/JknSantos">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JknSantos&theme=dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JknSantos&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=JknSantos&theme=dark&hide_border=true">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JknSantos&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
  </div>
 
 ---
