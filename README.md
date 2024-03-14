@@ -7,19 +7,27 @@ Possuo experiencia em tecnologias como: Javascript, Node.js, JQuery, Git, Github
 
 Vejo a programação como uma ferramenta para me dar liberdade de mudar minha vida e ajudar o próximo com as soluções e inovações da tecnologia.
 <br>
-[🚀🚀Acompanhe meus projetos Aqui](https://portfolio-jackson-santos.vercel.app/) <br>
-Você está convidado para conhecer um pouco mais sobre mim, me envie uma mensagem 😁
 
 ---
 
- 🌐 Socials: <br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/545050603488018452) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacksonfelipe.ns/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacksonfelipe-ns/)
+ ## 💻 Tech Stack: <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
-
- 💻 Tech Stack: <br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 📚 Quero aprender  <br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
-
+## 🌐 Entre em contato comigo: <br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/545050603488018452) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacksonfelipe-ns/)
+---
  📊 GitHub Stats: <br>
  <div>
   <a href="https://github.com/JknSantos">
@@ -28,4 +36,4 @@ Você está convidado para conhecer um pouco mais sobre mim, me envie uma mensag
  </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arnaldohenrique&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JknSantos&icon=9&color=0)](https://visitcount.itsvg.in)
