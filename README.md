@@ -1,6 +1,6 @@
  ---
  💫 **Sobre mim:** <br>
-<br>Praiano de carteirinha, cristão, acredita na lei da semeadura, apaixonado pelo mundo geek.
+<br>Cristão, acredita na lei da semeadura, apaixonado pelo mundo geek.
 
 Desenvolvedor de software Full Stack em formação na Cubos Academy.
 Possuo experiencia em tecnologias como: Javascript, Node.js, JQuery, Git, Github, Tailwind, Bootstrap, Html5 e Css3.
@@ -18,10 +18,13 @@ Vejo a programação como uma ferramenta para me dar liberdade de mudar minha vi
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&)
 ---
-## 📚 Quero aprender  <br>
+## 💡Estou Aprendendo <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-222222?style=for-the-badge&logo=docker)
+
+## 📚 Quero aprender  <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
