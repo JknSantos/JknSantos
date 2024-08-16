@@ -21,6 +21,7 @@ Vejo a programação como uma ferramenta para me dar liberdade de mudar minha vi
 ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&)
 ---
 ## 💡Estou Aprendendo <br>
+![Angular](https://img.shields.io/badge/angular-%233a2335?style=for-the-badge&logo=angular&logoColor=%23dc26c1)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-222222?style=for-the-badge&logo=docker)
 
